@@ -3,7 +3,7 @@
 
 <p align="center">  ═════════════════════════════════════════════════════════════════════
 <p align="center"><img width="30" height="30" alt="изображение" src="https://github.com/user-attachments/assets/14cff7cf-1c2a-4e0e-af6f-ebd75e5a1894" /><img width="112" height="30" alt="изображение" src="https://github.com/user-attachments/assets/07eb882c-6fb3-4a5e-a2f1-806cba02f4b9" /> hellour! I'm known as delneyx or bloodlust! I go by he/any pronouns ദ്ദി◝ ⩊ ◜.ᐟ
-<p align="center">13 y.o. | INFJ-A | Artist | White Knight syndrome | Paranoic | Trust issues
+<p align="center">13 y.o. | INFJ-A | Artist | White Knight syndrome | Paranoic | Trust issues | Multishipper x Rareshipper
 <p align="center">people may think im rude but im js rlly straightforward (｡ᵕ ◞ _◟) 
      <p align="center">my birthday date is 02.01.2012! (1st of feb)
       ill be 14 so soon aaaaa! excited sounds
