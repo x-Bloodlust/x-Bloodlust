@@ -6,7 +6,7 @@
 <p align="center">13 y.o. | INFJ-A | Artist | White Knight syndrome | Paranoic | Trust issues | Multishipper x Rareshipper
 <p align="center">people may think im rude but im js rlly straightforward (｡ᵕ ◞ _◟) 
      <p align="center">my birthday date is 02.01.2012! (1st of feb)
-      ill be 14 so soon aaaaa! excited sounds
+ atm im 14 years old O-O
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&letterSpacing=1px&pause=100&color=FFFFFFAE&center=true&width=1000&height=80&lines=it+hurts+to+have+a+sharp+tongue+yet+kind+heart...;i+liek+my+bestie+Meimei+(%CB%B6%CB%83+%E1%B5%95+%CB%82%CB%B6)+.%E1%90%9F.%E1%90%9F;i'll+protect+you+even+if+i'll+have+to+beef+with+sm1!;you're+still+(%C2%AC_%C2%AC%22)+watching%3F..." alt="Typing SVG" /></a>
 <p align="center">═════════════════════════════════════════════════════════════════════
 <p align="center">MY FANDOMS LIST! ദ്ദി(ᵔᗜᵔ)
