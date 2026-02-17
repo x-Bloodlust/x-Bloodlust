@@ -3,10 +3,9 @@
 
 <p align="center">  ═════════════════════════════════════════════════════════════════════
 <p align="center"><img width="30" height="30" alt="изображение" src="https://github.com/user-attachments/assets/14cff7cf-1c2a-4e0e-af6f-ebd75e5a1894" /><img width="112" height="30" alt="изображение" src="https://github.com/user-attachments/assets/07eb882c-6fb3-4a5e-a2f1-806cba02f4b9" /> hellour! I'm known as delneyx or bloodlust! I go by he/any pronouns ദ്ദി◝ ⩊ ◜.ᐟ
-<p align="center">13 y.o. | INFJ-A | Artist | White Knight syndrome | Paranoic | Trust issues | Multishipper x Rareshipper
+<p align="center">14 y.o. | INFJ-A | Artist | White Knight syndrome | Paranoic | Trust issues | Multishipper x Rareshipper
 <p align="center">people may think im rude but im js rlly straightforward (｡ᵕ ◞ _◟) 
      <p align="center">my birthday date is 02.01.2012! (1st of feb)
- atm im 14 years old O-O
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&letterSpacing=1px&pause=100&color=FFFFFFAE&center=true&width=1000&height=80&lines=it+hurts+to+have+a+sharp+tongue+yet+kind+heart...;i+liek+my+bestie+Meimei+(%CB%B6%CB%83+%E1%B5%95+%CB%82%CB%B6)+.%E1%90%9F.%E1%90%9F;i'll+protect+you+even+if+i'll+have+to+beef+with+sm1!;you're+still+(%C2%AC_%C2%AC%22)+watching%3F..." alt="Typing SVG" /></a>
 <p align="center">═════════════════════════════════════════════════════════════════════
 <p align="center">MY FANDOMS LIST! ദ്ദി(ᵔᗜᵔ)
