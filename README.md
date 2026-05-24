@@ -15,7 +15,8 @@ ${\color{#5f4b91}Polyamour: Scraps/Brightney/Vee | Shrimpo/Sprout/Finn/Cosmo | S
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/280beee6-7d14-4f55-a0c8-0b3585c0e15b" />
 ${\color{#9da231}MLW: Astro/Brightney | Cosmo/Teagan | RnD/Scraps | Yatta/Blot | Dandy/Bobette.}$$ 
 <p align="center">${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
-<p align="center">${\color{#9da231}MY FANDOMS LIST!}$
-<p align="center"> ${\color{#89252c}MAIN FD: Dandy's world}$
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=44&duration=3000&pause=500&color=9DA231&center=true&vCenter=true&multiline=true&repeat=false&width=925&height=73&lines=My+fandom+list%3A" alt="Typing SVG" /></a>
+<p align="center"> ${\color{#89252c}MAIN: Dandy's world}$
   <p align="center"> ${\color{#47929d}OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; And much more!}$
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=10000&pause=900&color=FFFFFF2C&center=true&repeat=false&width=1200&height=80&lines=i'm+watching+you+too." alt="Typing SVG" /></a>
+  <p align="center">${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
+  <img width="2394" height="1006" alt="IMG_1436" src="https://github.com/user-attachments/assets/9fdbd489-5c9f-4046-8f59-1d34615504e0" />
