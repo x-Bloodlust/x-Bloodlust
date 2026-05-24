@@ -5,9 +5,6 @@
 
   cr: me :3
 <p align="center">14 y.o. | INFJ-A | Artist + Animator | White Knight syndrome | Paranoic | Trust issues | Multiship+Rareship
-<p align="center"> My socials:
-     <p align="center"> TG: https://t.me/dylan_theexp
-          <p align="center"> X: http://x.com/Bloodlusterzzz
      <p align="center">Date of birth - 01.02.2012! (1st of feb)
 <p align="center"> My kinns are Sprout Seedly, Shrimpo and Finn!
 <p align="center">  ═════════════════════════════════════════════════════════════════════
