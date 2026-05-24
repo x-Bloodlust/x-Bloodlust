@@ -1,24 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=64&duration=3000&pause=100&color=F7F7F7C3&center=true&vCenter=true&multiline=true&repeat=false&width=1600&height=900&lines=%D0%9C%D0%BE%D1%91+%D0%BC%D0%BE%D1%80%D0%B5%2C+%D0%BF%D1%80%D0%BE%D1%88%D1%83+%D1%82%D0%B5%D0%B1%D1%8F%2C+%D0%BD%D0%B5+%D0%B2%D1%8B%D0%BF%D0%BB%D1%8E%D0%BD%D0%B8+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%BD%D0%B0+%D0%B1%D0%B5%D1%80%D0%B5%D0%B3;%D0%92%D0%BE+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B9+%D0%B1%D1%83%D1%80%D0%B8+%D1%82%D0%B2%D0%BE%D0%B8%D1%85+%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%BA;%D0%AF+%D1%82%D0%B0%D0%BA+%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B8%D1%81%D0%BA%D0%B0%D0%BB+%D0%BF%D0%BE+%D0%B3%D1%80%D1%8F%D0%B7%D0%BD%D1%8B%D0%BC+%D0%BF%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%BC+%D1%80%D1%83%D1%81%D0%BB%D0%B0%D0%BC;%D0%97%D1%83%D0%B1%D0%B0%D0%BC%D0%B8+%D1%81%D0%B5%D1%82%D0%B8+%D1%80%D0%B2%D0%B0%D0%BB%2C+%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B3%D0%B0%D1%8F+%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9+%D0%BC%D1%83%D1%81%D0%BA%D1%83%D0%BB;%D0%98+%D1%8F+%D0%B3%D0%BE%D1%82%D0%BE%D0%B2+%D1%81%D0%BE%D0%B6%D1%80%D0%B0%D1%82%D1%8C+%D0%BF%D1%83%D0%B4%D1%8B+%D1%82%D0%B2%D0%BE%D0%B5%D0%B9+%D0%B3%D0%BE%D1%80%D1%87%D0%B0%D1%89%D0%B5%D0%B9+%D1%81%D0%BE%D0%BB%D0%B8;%D0%97%D0%B0+%D1%82%D0%BE+%D0%BB%D0%B8%D1%88%D1%8C%2C+%D1%87%D1%82%D0%BE+%D1%82%D1%8B+%D0%B7%D0%B4%D0%B5%D1%81%D1%8C+%D0%BE%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%D0%BC%D0%BD%D0%B5+%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D0%B8%D1%88%D1%8C;%D0%97%D0%B0+%D1%82%D0%BE%2C+%D1%87%D1%82%D0%BE+%D0%B4%D0%B0%D1%88%D1%8C+%D0%B8+%D0%B4%D0%B0%D0%BB%D1%8C%D1%88%D0%B5+%D0%BC%D0%BD%D0%B5+%D0%B4%D1%8B%D1%88%D0%B0%D1%82%D1%8C+%D1%81%D0%B2%D0%BE%D0%B5%D1%8E+%D0%B2%D0%BB%D0%B0%D0%B3%D0%BE%D0%B9;%D0%9A%D1%80%D0%BE%D0%BC%D0%B5+%D1%8D%D1%82%D0%BE%D0%B3%D0%BE+%D0%B1%D0%BB%D0%B0%D0%B3%D0%B0+%D0%BC%D0%BD%D0%B5+%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE+%D0%BD%D0%B5+%D0%BD%D0%B0%D0%B4%D0%BE;%D0%AD%D1%82%D0%BE+%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0%2C+%D1%8F+%D0%B7%D0%B0+%D0%B2%D0%BE%D0%B4%D1%83%2C+%D0%B6%D0%B0%D0%B4%D0%BD%D0%BE+%D0%BD%D0%B0%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%83%D1%8E+%D0%B2+%D0%B6%D0%B0%D0%B1%D1%80%D1%8B;%D0%9F%D0%BE%D0%B4%D0%B0%D1%80%D1%8E+%D1%82%D0%B5%D0%B1%D0%B5+%D0%B2%D1%81%D0%B5%D0%B3%D0%BE+%D1%81%D0%B5%D0%B1%D1%8F%2C+%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%BD%D0%B5+%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%2C+%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE;%D0%92%D1%8B%D0%B1%D1%80%D0%B0%D1%81%D1%8B%D0%B2%D0%B0%D1%82%D1%8C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B9+%D0%BD%D0%B0+%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0+%D0%B8%D0%B7%D0%B3%D0%B8%D0%B1%D1%8B;%D0%98+%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C+%D1%82%D0%B0%D0%BC+%D0%BF%D0%BE%D0%B4%D1%8B%D1%85%D0%B0%D1%82%D1%8C%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%83%2C+%D0%B4%D1%80%D1%83%D0%B3%D1%83%D1%8E+%D1%80%D1%8B%D0%B1%D1%83." alt="Typing SVG" /></a>
-<p align="center"><img width="735" height="431" alt="изображение" src="https://github.com/user-attachments/assets/348ca345-fdb7-4a4d-b6f8-c7c950948d10" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=44&duration=3000&pause=500&color=9DA231&center=true&vCenter=true&multiline=true&repeat=false&width=950&height=240&lines=I+need+something+bigger+than+the+sky;Hold+it+in+my+arms+and+know+it's+mine;Just+how+many+stars+will+I+need+to+hang+around+me;To+finally+call+it+Heaven%3F" alt="Typing SVG" /></a>
+<p align="center">Mitski - Remember my name
 <p align="center">  ═════════════════════════════════════════════════════════════════════
-<p align="center"><img width="30" height="30" alt="изображение" src="https://github.com/user-attachments/assets/14cff7cf-1c2a-4e0e-af6f-ebd75e5a1894" /><img width="112" height="30" alt="изображение" src="https://github.com/user-attachments/assets/07eb882c-6fb3-4a5e-a2f1-806cba02f4b9" /> Хаюшки! Я извествен как Дилнейкс\Блудласт\Дилан! Мои местоимения - Он>Любые ദ്ദി◝ ⩊ ◜.ᐟ
-<p align="center">14 лет | INFJ-A | Художник + Аниматор | Синдром белого рыцаря | Параноик | Проблемы с доверием | Мультишиппер + Рейршиппер
-<p align="center">Может показаться, что я груб, но я просто очень прямолинеен. (｡ᵕ ◞ _◟) 
-     <p align="center">Дата моего рождения - 01.02.2012! (1st of feb)
-<p align="center"> Мои основные кинны это Спраут, Шримпо и Финн, как и любимые туны!
+<p align="center"><img width="2394" height="1006" alt="IMG_1433" src="https://github.com/user-attachments/assets/e3f609ba-e5f3-4585-9f9b-04e1d9bad933" />
+<p align="center">14 y.o. | INFJ-A | Artist + Animator | White Knight syndrome | Paranoic | Trust issues | Multiship+Rareship
+<p align="center"> My socials:
+     <p align="center"> TG: https://t.me/dylan_theexp
+          <p align="center"> X: http://x.com/Bloodlusterzzz
+     <p align="center">Date of birth - 01.02.2012! (1st of feb)
+<p align="center"> My kinns are Sprout Seedly, Shrimpo and Finn!
 <p align="center">  ═════════════════════════════════════════════════════════════════════
-<p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/9bf02550-c9d0-4be0-bd3b-2acb29962865" />Мои фав шипы по Миру денди:
+<p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/9bf02550-c9d0-4be0-bd3b-2acb29962865" />My DW fav ships:
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/00d9751d-c991-430c-88df-5688fa3df96c" />
-ВЛВ: Ви/Гиги, Ви/Скрапс, Брайтни/Скрапс, Брайтни/Конни, Гиги/Флаттер, Гиги/Скрапс, Шелли/Ятта, Джинджер/Бобетт, Кокоа/Эклипс.
+WLW: Vee/Gigi, Vee/Scraps, Brightney/Scraps, Brightney/Connie, Ginger/Bobette, Cocoa/Eclipse.
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/fb5e330b-3c8f-492b-b3dc-ff9e16ea4dd6" />
-МЛМ: Спраут/Шримпо, Глистен/Губ, Космо/Бокстен, Бокстен/Спраут, Финн/Шримпо, Астро/Космо, Финн/Губ, Роджер/Астро, Денди/Спраут, Денди/Космо, Губ/Флайт.
+MLM: Shrimpo/Sprout (FAV), Finn/Shrimpo, Glisten/Goob, Cosmo/Glisten, Astro/Cosmo, Finn/Sprout.
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/ce8b26cb-19e2-4a13-a2d2-7a19a86b6121" />
-Полиамур: Гиги/Скрапс/Поппи, Астро/Космо/Спраут/Денди, Ятта/Блот/Луи, Кокоа/Эклипс/Руди, Финн/Губ/Шримпо, Шелли/Ви/Тиша, Шримпо/Финн/Луи.
+Polyamour: Scraps/Brightney/Vee, Yatta/Blot/Looey, Cocoa/Eclipse/Rudie, Shrimpo/Sprout/Finn/Cosmo, Shelly/Vee/Tisha, Shrimpo/Finn/Looey.
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/280beee6-7d14-4f55-a0c8-0b3585c0e15b" />
-МЛВ: Шримпо/Бэсси, Астро/Брайтни, Космо/Тиган, Спраут/Ви, РнД/Скрапс, Ятта/Блот, Денди/Бобетт.
+MLW: Astro/Brightney, Cosmo/Teagan, RnD/Scraps, Yatta/Blot, Dandy/Bobette.
 <p align="center">═════════════════════════════════════════════════════════════════════
-<p align="center">MY FANDOMS LIST! ദ്ദി(ᵔᗜᵔ)
-<p align="center"> MAIN FDS: Dandy's world ; Meleeniacs
-  <p align="center"> OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; I'll add more fandoms later!!
+<p align="center">MY FANDOMS LIST!
+<p align="center"> MAIN FD: Dandy's world 
+  <p align="center"> OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; And much more!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=10000&pause=900&color=FFFFFF2C&center=true&repeat=false&width=1200&height=80&lines=i'm+watching+you+too." alt="Typing SVG" /></a>
