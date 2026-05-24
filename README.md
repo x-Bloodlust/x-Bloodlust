@@ -2,6 +2,8 @@
 <p align="center">Mitski - Remember my name
 <p align="center">  ═════════════════════════════════════════════════════════════════════
 <p align="center"><img width="2394" height="1006" alt="IMG_1433" src="https://github.com/user-attachments/assets/e3f609ba-e5f3-4585-9f9b-04e1d9bad933" />
+
+  cr: me :3
 <p align="center">14 y.o. | INFJ-A | Artist + Animator | White Knight syndrome | Paranoic | Trust issues | Multiship+Rareship
 <p align="center"> My socials:
      <p align="center"> TG: https://t.me/dylan_theexp
