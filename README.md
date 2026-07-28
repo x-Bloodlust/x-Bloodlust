@@ -7,13 +7,13 @@
 <p align="center">  ${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=44&duration=3000&pause=500&color=9DA231&center=true&vCenter=true&multiline=true&repeat=false&width=925&height=100&lines=My+DW+fav+ships%3A+" alt="Typing SVG" /></a>
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/00d9751d-c991-430c-88df-5688fa3df96c" />
-${\color{#89252c}WLW: Vee/Gigi | Vee/Scraps | Brightney/Scraps | Brightney/Connie | Ginger/Bobette | Cocoa/Eclipse.}$
+${\color{#89252c}WLW: Vee/Gigi | Vee/Scraps | Brightney/Scraps | Brightney/Connie | Ginger/Bobette | Cocoa/Eclipse | Teagan/Vee | Bassie/Cocoa.}$
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/fb5e330b-3c8f-492b-b3dc-ff9e16ea4dd6" />
-${\color{#47929d}MLM: Shrimpo/Sprout (FAV) | Finn/Shrimpo | Glisten/Goob | Cosmo/Glisten | Astro/Cosmo | Finn/Sprout.}$
+${\color{#47929d}MLM: Shrimpo/Sprout (FAV) | Finn/Shrimpo (FAV) | Sprout/Finn (FAV) | Soulvester/Flyte | Shrimpo/Looey | Dandy/Shrimpo | Dandy/Astro | Astro/Rodger | Cosmo/Astro.}$
 <p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/ce8b26cb-19e2-4a13-a2d2-7a19a86b6121" />
-${\color{#5f4b91}Polyamour: Scraps/Brightney/Vee | Shrimpo/Sprout/Finn/Cosmo | Shelly/Vee/Tisha | Shrimpo/Finn/Looey.}$
-<p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/280beee6-7d14-4f55-a0c8-0b3585c0e15b" />
-${\color{#9da231}MLW: Astro/Brightney | Cosmo/Teagan | RnD/Scraps | Yatta/Blot | Dandy/Bobette.}$$ 
+${\color{#5f4b91}Polyamour: Blot/Looey/Yatta | Shrimpo/Sprout/Finn (FAV) | Dandy/Cosmo/Astro | Shrimpo/Finn/Looey/Goob.}$
+<p align="center"><img width="15" height="15" alt="изображение" src="https://github.com/user-attachments/assets/280beee6-7d14-4f55-a0c8-0b3585c0e15b" />  
+${\color{#9da231}MLW: Astro/Brightney | Cosmo/Teagan | RnD/Scraps | Blot/Vee.}$ 
 <p align="center">${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=44&duration=3000&pause=500&color=9DA231&center=true&vCenter=true&multiline=true&repeat=false&width=925&height=73&lines=My+fandom+list%3A" alt="Typing SVG" /></a>
 <p align="center"> ${\color{#89252c}MAIN: Dandy's world}$
