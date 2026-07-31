@@ -20,3 +20,4 @@ ${\color{#9da231}MLW: Astro/Brightney | Cosmo/Teagan | RnD/Scraps | Blot/Vee.}$
   <p align="center"> ${\color{#47929d}OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; And much more!}$
   <p align="center">${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
  <img src="https://img.sanishtech.com/u/da47b4f0e610347f9c3d0e03f0d89125.png" alt="EFF36FC1-E71F-4052-AB03-9F545F9E4E60" width="2394" height="1006" loading="lazy" style="max-width:100%;height:auto;">
+ all arts on my github page are drawn by me :p 
