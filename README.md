@@ -20,4 +20,5 @@ ${\color{#9da231}MLW: Astro/Brightney | Cosmo/Teagan | RnD/Scraps | Blot/Vee.}$
   <p align="center"> ${\color{#47929d}OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; And much more!}$
   <p align="center">${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
  <img width="2394" height="1006" alt="IMG_3242" src="https://github.com/user-attachments/assets/bf29a69d-5ae4-4ce9-8969-79bac6236bbc" />
- all arts on my github page are drawn by me :p 
+ all arts on my github page are drawn by me!!
+       yes the artstyles arent the same but isnt shrimpo on pfp rlly cute huh?!?!?!
