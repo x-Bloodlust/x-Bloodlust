@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gochi+Hand&size=44&duration=3000&pause=500&color=9DA231&center=true&vCenter=true&multiline=true&repeat=false&width=950&height=240&lines=I+need+something+bigger+than+the+sky;Hold+it+in+my+arms+and+know+it's+mine;Just+how+many+stars+will+I+need+to+hang+around+me;To+finally+call+it+Heaven%3F" alt="Typing SVG" /></a>
 <p align="center">${\color{#89252c}Mitski-Remember My Name}$
 <p align="center">${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
-<p align="center"><img width="2394" height="1006"![IMG_3505](https://github.com/user-attachments/assets/f9790710-d8bb-4e52-a7e7-6173f05025c8)
-/>
+<p align="center"><img width="2394" height="1006"![IMG_3505](https://github.com/user-attachments/assets/f9790710-d8bb-4e52-a7e7-6173f05025c8)/>
 <p align="center">${\color{#9da231}14 y.o. | INFJ-A | Artist + Animator | White Knight syndrome | Paranoic | Trust issues | Multiship+Rareship}$
      <p align="center">$${\color{#89252c}Datebirth - 02.01.2012! (1feb)}$$ 
 <p align="center">  ${\color{#ba891d}═════════════════════════════════════════════════════════════════════}$
